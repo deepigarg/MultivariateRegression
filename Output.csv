@@ -1,0 +1,502 @@
+['SJR', 'H Index'];0.2732945123926125;0.1478430210862668
+['SJR', 'Total Docs.'];0.35383089812458507;0.27961723699721897
+['SJR', 'Total Docs(3years)'];0.3400308319733861;0.21532452586210654
+['SJR', 'Total Refs.'];0.3443974878271037;0.22787726760305888
+['SJR', 'Total Cites'];0.3735984460633648;0.24890542727021953
+['SJR', 'Citable Docs.'];0.33655359259523454;0.21253232561949142
+['SJR', 'Cites/Docs.'];0.18535563330154617;0.08635743545402964
+['SJR', 'Ref./Docs.'];0.4288374387271226;0.2731848593976274
+['H Index', 'Total Docs.'];0.4226561219267226;0.32001435397846667
+['H Index', 'Total Docs(3years)'];0.4401884056356974;0.35067798828398083
+['H Index', 'Total Refs.'];0.4180130450033944;0.31741785761527136
+['H Index', 'Total Cites'];0.3995906571698387;0.29233666978829076
+['H Index', 'Citable Docs.'];0.4463069123202928;0.3594938448153138
+['H Index', 'Cites/Docs.'];0.20525739545605654;0.10639803534120756
+['H Index', 'Ref./Docs.'];0.7799690667434634;0.893519083681487
+['Total Docs.', 'Total Docs(3years)'];0.6677887280214161;1.174441025760279
+['Total Docs.', 'Total Refs.'];0.7155383815501065;2.3580740397397504
+['Total Docs.', 'Total Cites'];0.652497082023804;0.5763608250329924
+['Total Docs.', 'Citable Docs.'];0.6662646032258086;1.1717012763721193
+['Total Docs.', 'Cites/Docs.'];0.20342596861299567;0.10218514909650651
+['Total Docs.', 'Ref./Docs.'];1.1289525612923483;1.8033145631437106
+['Total Docs(3years)', 'Total Refs.'];0.6969460903947459;1.2781115515647814
+['Total Docs(3years)', 'Total Cites'];0.6438056527658864;0.5550185584196896
+['Total Docs(3years)', 'Citable Docs.'];0.6733123578188625;1.3456813512034236
+['Total Docs(3years)', 'Cites/Docs.'];0.20545637771707778;0.10163093542605968
+['Total Docs(3years)', 'Ref./Docs.'];1.1321102459329047;1.738058104730706
+['Total Refs.', 'Total Cites'];0.6839147607415053;0.6053010587035786
+['Total Refs.', 'Citable Docs.'];0.6879436158688285;1.187528716029002
+['Total Refs.', 'Cites/Docs.'];0.20045065654972338;0.10303575056174867
+['Total Refs.', 'Ref./Docs.'];1.1087732229897633;1.7179846742453966
+['Total Cites', 'Citable Docs.'];0.6835511932743354;0.6020625047783279
+['Total Cites', 'Cites/Docs.'];0.19658926418197403;0.09985124735290736
+['Total Cites', 'Ref./Docs.'];0.8906829176764167;1.1403749497214168
+['Citable Docs.', 'Cites/Docs.'];0.20518530086357487;0.10165142937527964
+['Citable Docs.', 'Ref./Docs.'];1.1318908336079283;1.735255706988911
+['Cites/Docs.', 'Ref./Docs.'];0.19282819980461077;0.09834754849824703
+['SJR', 'H Index', 'Total Docs.'];0.27175926607383305;0.14331002072047982
+['SJR', 'H Index', 'Total Docs(3years)'];0.26998310171332496;0.1435648390447605
+['SJR', 'H Index', 'Total Refs.'];0.2651892315030656;0.14203261249822816
+['SJR', 'H Index', 'Total Cites'];0.2698587087319267;0.14499234447319823
+['SJR', 'H Index', 'Citable Docs.'];0.2728827028899731;0.14727641966171887
+['SJR', 'H Index', 'Cites/Docs.'];0.18466842834826125;0.08625352945949277
+['SJR', 'H Index', 'Ref./Docs.'];0.35694574258933776;0.20037342818195247
+['SJR', 'Total Docs.', 'Total Docs(3years)'];0.34641939705062674;0.2507175349877542
+['SJR', 'Total Docs.', 'Total Refs.'];0.3657099464080423;0.3556253596608123
+['SJR', 'Total Docs.', 'Total Cites'];0.35435998560792253;0.23285058060331545
+['SJR', 'Total Docs.', 'Citable Docs.'];0.3487028409563009;0.2622129565837634
+['SJR', 'Total Docs.', 'Cites/Docs.'];0.18135509121291377;0.08205663466424874
+['SJR', 'Total Docs.', 'Ref./Docs.'];0.4205321639785974;0.27315418525234
+['SJR', 'Total Docs(3years)', 'Total Refs.'];0.34172206280971834;0.21653884996511463
+['SJR', 'Total Docs(3years)', 'Total Cites'];0.357772602013431;0.23486838408793356
+['SJR', 'Total Docs(3years)', 'Citable Docs.'];0.35271782344707503;0.24804383086866486
+['SJR', 'Total Docs(3years)', 'Cites/Docs.'];0.18359230813870503;0.08209485373978266
+['SJR', 'Total Docs(3years)', 'Ref./Docs.'];0.42110744655022553;0.2512646647159997
+['SJR', 'Total Refs.', 'Total Cites'];0.3734705590994076;0.24881289111784813
+['SJR', 'Total Refs.', 'Citable Docs.'];0.3359976797004073;0.21196060159454191
+['SJR', 'Total Refs.', 'Cites/Docs.'];0.18196132970874979;0.08417425844330342
+['SJR', 'Total Refs.', 'Ref./Docs.'];0.4013913256644812;0.23951642751353858
+['SJR', 'Total Cites', 'Citable Docs.'];0.38649635344844985;0.25990127857031364
+['SJR', 'Total Cites', 'Cites/Docs.'];0.1827160435140444;0.08380937372080173
+['SJR', 'Total Cites', 'Ref./Docs.'];0.3836296279719273;0.2210368144956188
+['SJR', 'Citable Docs.', 'Cites/Docs.'];0.18334345744561956;0.08247329224619515
+['SJR', 'Citable Docs.', 'Ref./Docs.'];0.4184558443547266;0.24939091760453477
+['SJR', 'Cites/Docs.', 'Ref./Docs.'];0.19191787467884977;0.08907721233349733
+['H Index', 'Total Docs.', 'Total Docs(3years)'];0.46830261457450406;0.41355586746117384
+['H Index', 'Total Docs.', 'Total Refs.'];0.41753299819208184;0.3173679664146419
+['H Index', 'Total Docs.', 'Total Cites'];0.3977381708368021;0.2904996137014851
+['H Index', 'Total Docs.', 'Citable Docs.'];0.48088520789430483;0.4418559603472728
+['H Index', 'Total Docs.', 'Cites/Docs.'];0.20418385726020694;0.10291543359194354
+['H Index', 'Total Docs.', 'Ref./Docs.'];0.7885894261522987;0.8945352077638944
+['H Index', 'Total Docs(3years)', 'Total Refs.'];0.47204608076816607;0.4228661474940211
+['H Index', 'Total Docs(3years)', 'Total Cites'];0.48964415411963125;0.4650871199791638
+['H Index', 'Total Docs(3years)', 'Citable Docs.'];0.4637649775443974;0.3928308038806396
+['H Index', 'Total Docs(3years)', 'Cites/Docs.'];0.20560971188249005;0.10187328658856634
+['H Index', 'Total Docs(3years)', 'Ref./Docs.'];0.7725024629627723;0.8946229508192011
+['H Index', 'Total Refs.', 'Total Cites'];0.3990797664847628;0.2918177716328236
+['H Index', 'Total Refs.', 'Citable Docs.'];0.4865264350641625;0.45293036684561355
+['H Index', 'Total Refs.', 'Cites/Docs.'];0.20305596094703238;0.10450785338019011
+['H Index', 'Total Refs.', 'Ref./Docs.'];0.7796451475974915;0.8921114123159916
+['H Index', 'Total Cites', 'Citable Docs.'];0.5105196771801163;0.5197969398237804
+['H Index', 'Total Cites', 'Cites/Docs.'];0.19630883794215268;0.09965465814521443
+['H Index', 'Total Cites', 'Ref./Docs.'];0.7543269021127372;0.8320937831129575
+['H Index', 'Citable Docs.', 'Cites/Docs.'];0.2054385628677985;0.10206185612330303
+['H Index', 'Citable Docs.', 'Ref./Docs.'];0.7718540635639857;0.8979107148197217
+['H Index', 'Cites/Docs.', 'Ref./Docs.'];0.1925824591162604;0.09796675429171983
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.'];0.7386946911026303;1.8884805386659371
+['Total Docs.', 'Total Docs(3years)', 'Total Cites'];0.6577555771385173;0.5824193611935454
+['Total Docs.', 'Total Docs(3years)', 'Citable Docs.'];0.6739652068123335;1.450548814316243
+['Total Docs.', 'Total Docs(3years)', 'Cites/Docs.'];0.20460644956156357;0.1016188705640915
+['Total Docs.', 'Total Docs(3years)', 'Ref./Docs.'];1.1278401201839932;1.7564242397242653
+['Total Docs.', 'Total Refs.', 'Total Cites'];0.6506776222718357;0.7398272879549554
+['Total Docs.', 'Total Refs.', 'Citable Docs.'];0.7365237001091833;1.8945755235671415
+['Total Docs.', 'Total Refs.', 'Cites/Docs.'];0.20690822142035442;0.10308077114747634
+['Total Docs.', 'Total Refs.', 'Ref./Docs.'];1.2346363987002116;2.3339999315534996
+['Total Docs.', 'Total Cites', 'Citable Docs.'];0.7244172245143853;0.657028984067472
+['Total Docs.', 'Total Cites', 'Cites/Docs.'];0.19656954503322852;0.09969403155699931
+['Total Docs.', 'Total Cites', 'Ref./Docs.'];0.8789122585882241;1.1538652538270804
+['Total Docs.', 'Citable Docs.', 'Cites/Docs.'];0.2041850971541199;0.10171620638152894
+['Total Docs.', 'Citable Docs.', 'Ref./Docs.'];1.1275639965230586;1.7685378806061718
+['Total Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18800447685338229;0.0942463363411984
+['Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.6212211341907804;0.5323419537156565
+['Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.6915213177467747;1.4379831794383693
+['Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.20664409168388234;0.10168086906133637
+['Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];1.178073154006665;1.874971541603759
+['Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.6776246719685143;0.62054786701733
+['Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.19662649783114644;0.1007618156381665
+['Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.9333059036862692;1.392917538203515
+['Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.2070732901778716;0.10268540750038707
+['Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];1.1624569547612462;1.842806309480794
+['Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.1880142441750095;0.09221762145020082
+['Total Refs.', 'Total Cites', 'Citable Docs.'];0.6493117214696285;0.5616413689012242
+['Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19668349112749434;0.09986490040890034
+['Total Refs.', 'Total Cites', 'Ref./Docs.'];0.8860696864728335;1.1561955616171893
+['Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.2058021184731478;0.10165806938873859
+['Total Refs.', 'Citable Docs.', 'Ref./Docs.'];1.168971978786902;1.8456749837892383
+['Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18800734265688693;0.095320824025543
+['Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19798586655663405;0.10146770361387289
+['Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.9548146104142512;1.4868509043618816
+['Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18857488882670317;0.09472078331630834
+['Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18811632100817133;0.09229598299013715
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)'];0.2871384367589441;0.1787974862914449
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.'];0.2764716108347848;0.14962421323840766
+['SJR', 'H Index', 'Total Docs.', 'Total Cites'];0.2688408964012676;0.14093190304815723
+['SJR', 'H Index', 'Total Docs.', 'Citable Docs.'];0.2955156342747654;0.19388465441179542
+['SJR', 'H Index', 'Total Docs.', 'Cites/Docs.'];0.17880475231380255;0.0813702023165352
+['SJR', 'H Index', 'Total Docs.', 'Ref./Docs.'];0.36170444235093496;0.19735395737131403
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.'];0.2819871677211668;0.1648452156546014
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites'];0.3116739815688571;0.1992388571123698
+['SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs.'];0.28248839618202964;0.15942357879758223
+['SJR', 'H Index', 'Total Docs(3years)', 'Cites/Docs.'];0.17999311240956928;0.07959060434430743
+['SJR', 'H Index', 'Total Docs(3years)', 'Ref./Docs.'];0.3566067538726026;0.19676071606521026
+['SJR', 'H Index', 'Total Refs.', 'Total Cites'];0.2669307449418624;0.14300445144639842
+['SJR', 'H Index', 'Total Refs.', 'Citable Docs.'];0.29246806241329315;0.17889056868966177
+['SJR', 'H Index', 'Total Refs.', 'Cites/Docs.'];0.179307646049813;0.08351937752397336
+['SJR', 'H Index', 'Total Refs.', 'Ref./Docs.'];0.3481603234914578;0.1915563037761163
+['SJR', 'H Index', 'Total Cites', 'Citable Docs.'];0.3326799490958083;0.22937937814616338
+['SJR', 'H Index', 'Total Cites', 'Cites/Docs.'];0.179857906006917;0.08297981878727706
+['SJR', 'H Index', 'Total Cites', 'Ref./Docs.'];0.3542221856259299;0.1923767845278315
+['SJR', 'H Index', 'Citable Docs.', 'Cites/Docs.'];0.18001870826063915;0.07995863591264653
+['SJR', 'H Index', 'Citable Docs.', 'Ref./Docs.'];0.3566601664306549;0.19910304851294464
+['SJR', 'H Index', 'Cites/Docs.', 'Ref./Docs.'];0.19230738358778546;0.08909834235887139
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.'];0.3613569555965943;0.3229159873439856
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites'];0.380762128110951;0.2586816700479917
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.'];0.3525437618648104;0.3046551607701168
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.'];0.18093003317649703;0.08296083333478735
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Ref./Docs.'];0.4206117169250457;0.2717747113229797
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites'];0.3612602314200242;0.26242314889723106
+['SJR', 'Total Docs.', 'Total Refs.', 'Citable Docs.'];0.3617040393851622;0.33242289955724486
+['SJR', 'Total Docs.', 'Total Refs.', 'Cites/Docs.'];0.18439549174021946;0.0825113318231357
+['SJR', 'Total Docs.', 'Total Refs.', 'Ref./Docs.'];0.4681143395930766;0.38922774749712374
+['SJR', 'Total Docs.', 'Total Cites', 'Citable Docs.'];0.4163415263781011;0.29261854708737
+['SJR', 'Total Docs.', 'Total Cites', 'Cites/Docs.'];0.1796449318967773;0.081717865513603
+['SJR', 'Total Docs.', 'Total Cites', 'Ref./Docs.'];0.3847839850838608;0.2232631917281057
+['SJR', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.'];0.18070998832342383;0.08379910439497602
+['SJR', 'Total Docs.', 'Citable Docs.', 'Ref./Docs.'];0.4211544635535588;0.280563674420191
+['SJR', 'Total Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18576225393080284;0.08390011533554627
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.35588570510043455;0.2322875379490452
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.3490364591927648;0.24435301601239132
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.18285989726434584;0.082409662300276
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.4291395432566397;0.2597360783749812
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.3815668588030054;0.2515656511215189
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.18357899733862126;0.08488448639639755
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.4453487605105882;0.3363282691728535
+['SJR', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.18362463804418047;0.08254828591521242
+['SJR', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.45053375971645376;0.29465018603718324
+['SJR', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.18517790586051178;0.0824080859900268
+['SJR', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.3895706408618337;0.26286351807811575
+['SJR', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.18246458150621936;0.08369011539085115
+['SJR', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.4011744995072741;0.24177247259937223
+['SJR', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.18215926138426625;0.08308823828684793
+['SJR', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.4207737858895794;0.2519494872194009
+['SJR', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18911068568234152;0.08704520504708231
+['SJR', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1860861332128503;0.08693860213035588
+['SJR', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4727657506687373;0.38868121370309905
+['SJR', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18995898834533737;0.08727346285165963
+['SJR', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18547314962111805;0.08285213178942932
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.'];0.4678786113447161;0.41995866659392
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites'];0.4887819731791302;0.49617192294885687
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.'];0.506905871015997;0.4866347906174882
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.'];0.20473209659112507;0.10207081449720662
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Ref./Docs.'];0.7740407594408897;0.9029354990118553
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites'];0.3984416474430053;0.2921892291262066
+['H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.'];0.4818319662987282;0.4499321052230789
+['H Index', 'Total Docs.', 'Total Refs.', 'Cites/Docs.'];0.2071595348131294;0.10336695377108941
+['H Index', 'Total Docs.', 'Total Refs.', 'Ref./Docs.'];0.838877047223309;0.9908213709867907
+['H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.'];0.5150970929865868;0.5610281562160468
+['H Index', 'Total Docs.', 'Total Cites', 'Cites/Docs.'];0.19626352451877307;0.09947055854189711
+['H Index', 'Total Docs.', 'Total Cites', 'Ref./Docs.'];0.7465895362491902;0.847905830913169
+['H Index', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.'];0.20442745756401337;0.10241823923503428
+['H Index', 'Total Docs.', 'Citable Docs.', 'Ref./Docs.'];0.7791324154394252;0.9202724444653855
+['H Index', 'Total Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1876282244281552;0.09438643410499598
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.5499291007486558;0.6231353787508682
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.5088062005908043;0.46062637140037543
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.20663629117602184;0.101724589972935
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.7417141976039756;0.8583182507109752
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.5032155876700715;0.48971456264003815
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.1968056341811267;0.10088875146485053
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.813602225687111;1.140433096853891
+['H Index', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.2071315970645011;0.10291860818682776
+['H Index', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.8070880647912978;0.9647240073087413
+['H Index', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.1880986621027818;0.09295991270894123
+['H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.5846254635379767;0.7283860965674973
+['H Index', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19628806304789495;0.099591047657839
+['H Index', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.771355651213182;0.8827067123991013
+['H Index', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.20580959935667814;0.10196173794962048
+['H Index', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.7381825714394863;0.8584473033196267
+['H Index', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.1890397434148176;0.09573013851440196
+['H Index', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19848774596394772;0.10182934197022095
+['H Index', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8326433120560947;1.225784594838976
+['H Index', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1892434115200689;0.09520621686065839
+['H Index', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18825521294095715;0.09317161544139048
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.6461918803438206;0.7372113293036195
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.7320830302930207;2.0202194925839594
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.20898971346628942;0.10234501814275093
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];1.2408197561936787;2.2697393842761393
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.6997033673379949;0.6794928855256287
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.1948589275408882;0.10050436822958739
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.9288559130291818;1.363032110889358
+['Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.20733353700393659;0.1029926638584046
+['Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];1.1584800963466202;1.8883750407131823
+['Total Docs.', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.1876599901254485;0.09239533145915509
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.6722973825413977;0.757220009431377
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19605219345462385;0.09844536962053618
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.9204823784442961;1.1901482935206629
+['Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.20830510334583485;0.10241440485223305
+['Total Docs.', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];1.2382035965082794;2.2803812113623487
+['Total Docs.', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18917227055445726;0.0946636323518227
+['Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19558766399256872;0.10115375649398815
+['Total Docs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.9464674984765844;1.445433185109456
+['Total Docs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18643891305843077;0.09346127265172811
+['Total Docs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18760858001060227;0.09258504970275012
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.6619815616366997;0.5994216537443425
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.1966993238891266;0.1003162205240617
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.9151292857097889;1.3345432696577813
+['Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.20729705131943738;0.10270186098401463
+['Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];1.189386695488409;1.9294310966043273
+['Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18827199222154886;0.0921727361541553
+['Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1992934092140469;0.10094786478577458
+['Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.913956238364555;1.3596709464071994
+['Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18728857577927518;0.09291214796459377
+['Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18840398929677515;0.09307999934330499
+['Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19768591878209038;0.10119538987404222
+['Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.938694856087884;1.4303111733820837
+['Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1883576202828626;0.09464364394643839
+['Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18820521616876743;0.09227446115499899
+['Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18767152517499297;0.09358050699678305
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.'];0.2871485932288791;0.17911520909575815
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites'];0.31609417880692164;0.22235355963743947
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.'];0.3129086246163849;0.21475090978674552
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.'];0.17896859542529625;0.08066751234816663
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Ref./Docs.'];0.36040728976432934;0.21855136537267225
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites'];0.2733402641550064;0.14507537562211203
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.'];0.2957459411253212;0.19349746579806035
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Cites/Docs.'];0.18279095661071132;0.08353145888942655
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Ref./Docs.'];0.3939615696029901;0.2402745431841512
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.'];0.33999910796014704;0.25963365240611175
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Cites/Docs.'];0.17511801634914775;0.08036435500693496
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Ref./Docs.'];0.35463060636502286;0.19300498068043453
+['SJR', 'H Index', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.'];0.1787996759197021;0.08158226658187885
+['SJR', 'H Index', 'Total Docs.', 'Citable Docs.', 'Ref./Docs.'];0.36572394486556237;0.2313427527411851
+['SJR', 'H Index', 'Total Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18560496677306285;0.08381780443154699
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.33796731593848656;0.24111819372058352
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.3033308346035283;0.1787480188334754
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.18049229025020772;0.07944183166386241
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.34289880641692366;0.19408291301684324
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.33412081822497436;0.21684930076350434
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.17790531769893142;0.0813341223691643
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.4254361709440505;0.3223407190811903
+['SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.18118917511856372;0.08054295203790393
+['SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.37865779207270606;0.2267351162381529
+['SJR', 'H Index', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.1841165381672873;0.08146749312674063
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.3681254713126279;0.2946104984774964
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.17986722511505254;0.08298330207338821
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.37097471865953824;0.20791725924520638
+['SJR', 'H Index', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.17993535821326712;0.07999608475345205
+['SJR', 'H Index', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.3435172827485447;0.20005186464582916
+['SJR', 'H Index', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18916128127125412;0.08705856180870569
+['SJR', 'H Index', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1802639231163772;0.08325713300702899
+['SJR', 'H Index', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4502367703991034;0.372518068527493
+['SJR', 'H Index', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18921147099258262;0.08698946411353756
+['SJR', 'H Index', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18454137671650458;0.08199052400715885
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.37396398336623277;0.27410847046171416
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.36599611244877517;0.36037050901849565
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.1838320698774565;0.08318761703845783
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.46955849077697986;0.3839812454229064
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.4087016016516133;0.29267223433382866
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.17936186117119665;0.08518748463048303
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.43944652426280073;0.33045832482350057
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.1864946442437051;0.0850859481776189
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.4449887515345959;0.3350054382430721
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.18552311668420876;0.08370556294157468
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.39808935164836523;0.29671216912696924
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.18164843556815882;0.08117376375272169
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.41838807390949595;0.2554032163676218
+['SJR', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.1833899526722076;0.08405240380805026
+['SJR', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.4677442941628226;0.39081560151981526
+['SJR', 'Total Docs.', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18556198835623627;0.08351022982004074
+['SJR', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18287086588683174;0.08752867952071873
+['SJR', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.46525404497496176;0.38291688617625724
+['SJR', 'Total Docs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18630767620632757;0.08408780153109396
+['SJR', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18649724112891894;0.08452785463349308
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.38979259431271834;0.2596107710382604
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.18364188733018352;0.08551617634996644
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.4406871559983467;0.32777520389336323
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.18336090499951466;0.08309188426826555
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.44781177288911755;0.29164304228587273
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18620033896279234;0.08362413641511396
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18912281902567687;0.08580681030910375
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4622417720980962;0.3630654948938572
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18471890879993752;0.08168137944141446
+['SJR', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18229526652591746;0.08142425957996458
+['SJR', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18772064219017603;0.08839400669872735
+['SJR', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.470585943124601;0.3845772840348191
+['SJR', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18901354605502152;0.08683819603250523
+['SJR', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18678892475750025;0.08457480992142576
+['SJR', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1853282907276842;0.08249753491949477
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.5204067332165265;0.5624152770069871
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.5096081738990264;0.4739461801756355
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.2090491501915164;0.10229344941812386
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.7986960848215224;0.9494011581553327
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.5251095911313185;0.5484286806324671
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.19528806370270047;0.10090168442120853
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.7967853602465553;1.0978832903172104
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.20746933747036242;0.10347955866922441
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.8115479705139534;0.9984932660503651
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.18717509100002538;0.09329325875292213
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.5515401872850874;0.651031815047438
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.1952299372573456;0.09770329783658448
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.7862093416108625;0.9004722710991742
+['H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.2082351454281747;0.10251169059482501
+['H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.7976269239734081;0.9551079425242341
+['H Index', 'Total Docs.', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18790906367630136;0.0943709048418473
+['H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19650603118180038;0.10190568176575047
+['H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8124811276786199;1.1776563233195527
+['H Index', 'Total Docs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1869968568316941;0.09390496939942684
+['H Index', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18730611059878793;0.09366297683318887
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.5778979962156553;0.6859314299129541
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19649178151456115;0.10009680215666025
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.8141699026779515;1.1474561935250143
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.2072360130799328;0.1029041071340072
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.7674098110108823;0.906640074195474
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18801518182982002;0.09317014032039482
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19942232496955295;0.10103609031312459
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8222286220663455;1.1669372881503535
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18806160710232503;0.09362237697452055
+['H Index', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18750683179799899;0.09359681951354444
+['H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1980361057917054;0.10145175168761952
+['H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8342208626226825;1.251924823507499
+['H Index', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18856640532040628;0.09499929817839686
+['H Index', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18813917097949542;0.09360535637140299
+['H Index', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18843473260946872;0.09435350293766245
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.6794488675838306;0.778838570347859
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19298578492427684;0.09882798225957833
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.8730469225852706;1.2040863943024285
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.2107871400947016;0.10388680609595084
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];1.2472949195280063;2.3343781842306477
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18970681085775817;0.09264920425090817
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19708212286701163;0.10092008651314732
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.9066428685556659;1.3428905448061856
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18644092803822304;0.09300820688314068
+['Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18905672611676805;0.09351666968703133
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1929715457915928;0.09932242463589086
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8903880118164497;1.2596919071840338
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18615944773177462;0.09304013329177789
+['Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1895939973899074;0.09281438515150096
+['Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18650095164543007;0.09376897954386766
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19926166079720017;0.10090431166562178
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.9050314456097395;1.3263283977696263
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18731927314637703;0.09275771331824878
+['Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1882921174036612;0.09308893320372076
+['Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18855147727888202;0.09434144461548712
+['Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18766773383220847;0.09350604327593949
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites'];0.3146988573721343;0.22053732222038938
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.'];0.3131384451447187;0.20819125706370653
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'];0.1841168838772272;0.08238730060428055
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Ref./Docs.'];0.37915865067172855;0.24290673147607972
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.'];0.3516112646792851;0.2577278948372742
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.'];0.17506197777320073;0.08205039223594018
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Ref./Docs.'];0.415794422186355;0.31774149826348386
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.'];0.18309701827996822;0.08306541420858235
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Ref./Docs.'];0.3874753127804679;0.26709476973027485
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Cites/Docs.', 'Ref./Docs.'];0.18483320087302743;0.08289438851262829
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.34143719461891303;0.26179530946551605
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.17819518970469114;0.080247947679481
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.3902770366824606;0.2206024857746243
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.1833740065686077;0.0829399454721384
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.37955304976040344;0.25031866389636304
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18528869039852114;0.08358692902824613
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.17797545621348557;0.08438876086221368
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.43799819839134807;0.36907075705500114
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18565646949036438;0.08383704666974892
+['SJR', 'H Index', 'Total Docs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18568957603743322;0.0838871855471314
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.3697245970948668;0.27696157322528814
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.17769557593505056;0.08078860703128608
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.4280535880523368;0.330020860585403
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.18089980285117488;0.08061802549266842
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.36007368021648106;0.21654107421429183
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18480018328979847;0.08221138842307987
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18122340273294696;0.08207365112328571
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.45059246891547766;0.35296150671537946
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18431365451273887;0.08116387267632669
+['SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18179801330588985;0.08068563528128953
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18034379630041858;0.08335844793283595
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.45589236048944526;0.393133146646042
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18873627515257752;0.08670127979170072
+['SJR', 'H Index', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18582904998185865;0.08349655752562749
+['SJR', 'H Index', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18453281699941362;0.08195728327981368
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.4017655500656774;0.3012977794017425
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.17922555204061247;0.08362616071945024
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.42454973796968826;0.3052414609860123
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.18729777822372032;0.08581244125649407
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.48258442503255095;0.42805228359900405
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18516268694989307;0.08314547460582078
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18949379713804085;0.08756829836297317
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.46400713789307446;0.37068981771262777
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18592015194017783;0.08319492094385886
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18715596434542875;0.08408568336547631
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18194529614478372;0.08565896370022233
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4437038270490667;0.3438267837685242
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18597697571316296;0.08375702624746709
+['SJR', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18613285267130406;0.08403257615120385
+['SJR', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18649851087913105;0.08436291603097434
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19123124840172306;0.08777757914140595
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4635947380287666;0.3656487679125506
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1856592559491562;0.08266872857855762
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1844154121716803;0.08308780357088776
+['SJR', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18229410861600698;0.08191436678259124
+['SJR', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18659096025441455;0.08407570894045231
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.5575005805229684;0.6455438230417546
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.19286921252023875;0.0984629165861287
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.7827100414711159;1.02458684162628
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.2107547537385679;0.1039453092389475
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.8195517252385971;1.0176086439313996
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.18777496332911348;0.0931359763451304
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19763356080289365;0.10136666634804263
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8076994711510511;1.14286966299187
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18699590821199555;0.09386631879902553
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18866455816958355;0.0942363929550265
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19296435602392797;0.0993124553837022
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.7983434084769069;1.1005387973706822
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18635986654220682;0.0935208499922577
+['H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18775358815887905;0.09350378328228558
+['H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18742346059846224;0.09474391333126388
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19937050921338534;0.10098441926530863
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8243122665244353;1.190433309069591
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18808569386322987;0.09378535088860769
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18746814494877173;0.09396258673616407
+['H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18927664355827575;0.0948829251217987
+['H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1884856588257783;0.09480817012641853
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19644335720511819;0.09979819247538202
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8848785234174558;1.2322563736533299
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18627465028793358;0.09264015109844694
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.19083905175916777;0.09389577541869926
+['Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18867663592627815;0.09467215014214002
+['Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18617843824960081;0.09324310633856937
+['Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18860664037019473;0.09438498670740889
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.'];0.359138496101093;0.26552426608038
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.'];0.17769029897097682;0.08063791089019254
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Ref./Docs.'];0.40662891598794254;0.29304960023766474
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.'];0.186408139314642;0.08534501298634597
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Ref./Docs.'];0.3945961594947074;0.28297755765868016
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.', 'Ref./Docs.'];0.1843863307936144;0.0821612377257896
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1837558506032807;0.08412416799882834
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.45036933658322137;0.3619630863196329
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1853778595418047;0.08267760605273483
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1858993507854925;0.08335657733787526
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1771435190532441;0.08212493244720484
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4302195920258363;0.33816955026215956
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18486935905717422;0.08329685955861837
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18499201006094013;0.08314037035591364
+['SJR', 'H Index', 'Total Docs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18569114626848593;0.08388180686781264
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18206643102463718;0.08264816056846745
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4573792257838369;0.3711815419812465
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18471588584857287;0.0818432553983926
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18352547718054057;0.08193206686787696
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18078203874361692;0.08109526461990621
+['SJR', 'H Index', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1857909546328281;0.08333484451555405
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.1888435412560159;0.08678681007984874
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4554709322124931;0.3523503781412288
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18567636310891603;0.08295550055278245
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18692681316470458;0.08408078734562817
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18826089359838827;0.08450699633442924
+['SJR', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1861374187356289;0.08396288106937545
+['SJR', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18507569803118828;0.08381935902773464
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.19635482758228132;0.09968631719674749
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.8049546364488365;1.0965322494038536
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.1863615911913221;0.09339484941855446
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1888533492466626;0.094233955087588
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1891426013644305;0.0954008919760431
+['H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18647684295872102;0.09420468847193282
+['H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18994299696068567;0.09537551901346109
+['Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18894223563043938;0.09437510045892165
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.'];0.18247667469104947;0.08315968858115601
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Ref./Docs.'];0.4466260740087591;0.3464431828485184
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Cites/Docs.', 'Ref./Docs.'];0.18513494175313994;0.08225683639517772
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18553512489191623;0.08345517039447682
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18624718240897556;0.08360302880667593
+['SJR', 'H Index', 'Total Docs.', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1848444223124855;0.08315986799868504
+['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1828544691676162;0.08251568642775674
+['SJR', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.1880132055357049;0.08442659328010253
+['H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18917162788882735;0.09508971749896912
+['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Refs.', 'Total Cites', 'Citable Docs.', 'Cites/Docs.', 'Ref./Docs.'];0.18509287861769816;0.08333655315741613

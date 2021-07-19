@@ -1,0 +1,12 @@
+Minimum Mean Square error:
+
+COMBINATION:['SJR', 'H Index', 'Total Docs(3years)', 'Total Refs.', 'Cites/Docs.'] 
+VALUE:0.07944183166386241
+
+
+Minimum Mean Absolute error:
+
+COMBINATION:['SJR', 'H Index', 'Total Docs.', 'Total Docs(3years)', 'Total Cites', 'Cites/Docs.']
+VALUE:0.17506197777320073
+
+
